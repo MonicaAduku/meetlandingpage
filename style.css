@@ -1,0 +1,35 @@
+.title{
+    justify-content:center;
+    display:flex;
+    padding-top:5px;
+    
+}
+
+.header img{
+    width:100%;
+}
+
+.middlepic{
+    width:100%;
+    justify-content:center
+}
+
+.middlepic img{
+    width:100%;
+}
+
+.middlepic2{
+    width:100%;
+    justify-content:center;
+}
+
+.middlepic2 img{
+    width: 40%;
+    margin-left:28%;
+}
+.enepic img{
+    width: 60px;
+    margin-left:45%;
+    height: 100px;
+}
+
